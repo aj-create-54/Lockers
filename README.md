@@ -34,7 +34,7 @@ Company Lockers Pvt. Ltd. hired you as a Full Stack Developer. They aim to digit
 
 * Option to close the application
 
-# PROGRAM HIERARCHY
+# Program Hierarchy
 
 |FILE	|DESCRIPTION |
 |------|------------|
