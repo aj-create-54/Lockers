@@ -1,4 +1,4 @@
-# Lockers Pvt Lmt.
+# Lockers Pvt Ltd.
 DESCRIPTION
 
 Project objective: 
