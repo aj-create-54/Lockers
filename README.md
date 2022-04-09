@@ -34,4 +34,15 @@ Company Lockers Pvt. Ltd. hired you as a Full Stack Developer. They aim to digit
 
 * Option to close the application
 
+# PROGRAM HIERARCHY
+
+|FILE	|DESCRIPTION |
+|------|------------|
+|OutputFile.java	| Entry point of the application contains main method.|
+|ChooseOptions.java	|Displays the menu options.|
+|ShowFiles.java	|Displays the list of files in the directory in ascending order.|
+|PerformingOperations.java	|Performs business-level-operations, contains methods to add, delete and search for a file.|
+
+
+
  
